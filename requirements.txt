@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+PyMuPDF
+torch
+transformers
+datasets
+accelerate
+pyarrow
